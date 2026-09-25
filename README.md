@@ -9,9 +9,9 @@ file, no build step, no dependencies beyond the Uncut Sans webfont from jsDelivr
 
 ## Using it in Framer
 
-Embed node → **URL** mode → paste the live URL → set **Height to Fixed, 612**.
+Embed node → **URL** mode → paste the live URL → set **Height to Fixed, 610**.
 URL embeds cannot auto-measure; the file locks its own desktop height with
-`@media (min-width:900px){body{min-height:612px}}` so the two agree.
+`@media (min-width:900px){body{min-height:610px}}` so the two agree.
 
 ## How it reads
 
